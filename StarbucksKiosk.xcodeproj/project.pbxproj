@@ -27,6 +27,7 @@
 		768089F32C2E7AF0007DE0FE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		768089FA2C2E7B53007DE0FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		768089FB2C2E80D4007DE0FE /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		768089FC2C2E9C2B007DE0FE /* ProjectReference.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ProjectReference.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		768089E72C2E7AEF007DE0FE = {
 			isa = PBXGroup;
 			children = (
+				768089FC2C2E9C2B007DE0FE /* ProjectReference.md */,
 				768089FB2C2E80D4007DE0FE /* .gitignore */,
 				768089FA2C2E7B53007DE0FE /* README.md */,
 				768089F22C2E7AF0007DE0FE /* StarbucksKiosk */,
